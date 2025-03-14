@@ -1,0 +1,38 @@
+# Django
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+.db.sqlite3
+.media/
+staticfiles/
+venv/
+env/
+
+# Virtual environments
+env/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Environment variables
+.env
+.env.development
+.env.production
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~

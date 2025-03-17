@@ -22,13 +22,7 @@ class Borrower(models.Model):
 
 @receiver(post_save, sender=User)
 def manage_borrower(sender, instance, created, **kwargs):
+    if created:
         Borrower.objects.create(user=instance)
-        instance.borrower.save()
-
-
-# @receiver(post_save, sender=User)
-# def manage_borrower(sender, instance, created, **kwargs):
-#     if created:
-#         Borrower.objects.create(user=instance)
-#     else:
-#         instance.borrower.save()        
+    else:
+        instance.borrower.save()        

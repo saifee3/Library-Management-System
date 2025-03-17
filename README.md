@@ -216,10 +216,6 @@ library-management-system/
 │   ├── serializers.py
 │   ├── signals.py
 │   ├── tests/
-│   │   ├── __init__.py
-│   │   ├── test_models.py
-│   │   ├── test_views.py
-│   │   └── test_permissions.py
 │   ├── urls.py
 │   └── views.py
 ├── requirements.txt

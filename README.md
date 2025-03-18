@@ -30,7 +30,7 @@ Welcome to the 📚 Library Management System API 📚, a robust and scalable so
 
 - Python 3.8 or higher
 - Git
-- Database system (SQLite for development, PostgreSQL/MySQL for production)
+- Database system (SQLite for development)
 
 ### Installation
 

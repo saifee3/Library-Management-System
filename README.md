@@ -222,12 +222,6 @@ library-management-system/
 └── README.md
 ```
 
-## Testing
-
-To ensure everything works as expected, run the test suite:
-```bash
-python manage.py test
-```
 
 ## Contributing
 

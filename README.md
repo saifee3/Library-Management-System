@@ -1,6 +1,7 @@
 # Library Management System API using Django Rest
 
 ![img](https://github.com/user-attachments/assets/684e2803-1d37-49b7-9233-2da694912b21)
+Credits: Banner Image by Real Python on https://realpython.com/django-rest-framework-quick-start/
 
 ![GitHub Language Count](https://img.shields.io/github/languages/count/saifee3/library-management-system?style=flat-square&color=green)
 ![GitHub License](https://img.shields.io/github/license/saifee3/library-management-system?style=flat-square&color=orange)

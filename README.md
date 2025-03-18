@@ -4,7 +4,7 @@
 
 ![GitHub Repo Size](https://img.shields.io/github/repo-size/yourusername/library-management-system?style=flat-square&color=blue)
 ![GitHub Language Count](https://img.shields.io/github/languages/count/yourusername/library-management-system?style=flat-square&color=green)
-![GitHub License](https://img.shields.io/github/license/yourusername/library-management-system?style=flat-square&color=orange)
+![GitHub License](https://img.shields.io/github/license/saifee3/library-management-system?style=flat-square&color=orange)
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue?style=flat-square)
 ![Django Version](https://img.shields.io/badge/django-4.2%2B-blue?style=flat-square)
 ![Build Status](https://img.shields.io/badge/build-passing-success?style=flat-square)

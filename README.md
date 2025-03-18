@@ -252,4 +252,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-*Note: Replace "yourusername" with your actual GitHub username in the badges and repository URL.*
+

@@ -1,5 +1,6 @@
 # Library Management System API using Django Rest
-![img](https://github.com/user-attachments/assets/684e2803-1d37-49b7-9233-2da694912b21)
+<img src="https://github.com/user-attachments/assets/684e2803-1d37-49b7-9233-2da694912b21" alt="Custom Icon" width="1050" height="300">
+
 ![GitHub Language Count](https://img.shields.io/github/languages/count/saifee3/library-management-system?style=flat-square&color=green)
 ![GitHub License](https://img.shields.io/github/license/saifee3/library-management-system?style=flat-square&color=orange)
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue?style=flat-square)

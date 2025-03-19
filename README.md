@@ -1,8 +1,5 @@
 # Library Management System API using Django Rest
-
 ![img](https://github.com/user-attachments/assets/684e2803-1d37-49b7-9233-2da694912b21)
-Credits: Banner Image by Real Python on https://realpython.com/django-rest-framework-quick-start/
-
 ![GitHub Language Count](https://img.shields.io/github/languages/count/saifee3/library-management-system?style=flat-square&color=green)
 ![GitHub License](https://img.shields.io/github/license/saifee3/library-management-system?style=flat-square&color=orange)
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue?style=flat-square)
@@ -238,13 +235,10 @@ We welcome contributions! Please follow these steps:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
-
-- Django Framework
-- Django REST Framework
-- Simple JWT for authentication
-- django-cors-headers for CORS support
-
----
-
+## 🙏 Credits
+- **[Django](https://www.djangoproject.com/)** - The web framework used to build this API.  
+- **[Django REST Framework](https://www.django-rest-framework.org/)** - The toolkit for building RESTful APIs.  
+- **[Simple JWT](https://django-rest-framework-simplejwt.readthedocs.io/)** - Used for secure authentication.  
+- **[SQLite](https://www.sqlite.org/)** - The default database for local development.  
+- **[Real Python](https://realpython.com/django-rest-framework-quick-start/)** - Banner image sourced from their tutorial.  
 
